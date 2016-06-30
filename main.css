@@ -1,0 +1,41 @@
+html, body, #fullheight {
+    min-height: 100% !important;
+    height: 100%;
+    top:0px !important;
+    margin-top:0px !important;
+    background-color:#070B1A !important;
+    color:#fefefe !important;
+    font-size:14pt !important;
+    font-weight:100;
+}
+.main {
+	width:100%;
+}
+.center {
+	text-align:center;
+}
+
+li {
+    list-style-type: none;
+}
+ul {
+	margin-left:0px;
+	padding:0px;
+}
+input[type="checkbox"] {
+	position:relative;
+	margin-left:15px !important;
+	margin-right:5px !important;
+}
+input[type="submit"] {
+	color:#000 !important;
+}
+.suggest {
+	color:#000;
+	margin-top:32px;
+	width:40%;
+}
+
+select {
+	color:#000 !important;
+}
