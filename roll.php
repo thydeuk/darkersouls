@@ -1,4 +1,5 @@
 <?php 
+require_once('config.php');
 //Defining the arrays
 $arr = array(
 	"Class: "=>array("Knight" => 1, "Mercenary" => 1, "Warrior" => 1, "Herald" => 1, "Thief" => 1, "Assassin" => 1, "Sorcerer" => 1, "Pyromancer" => 1, "Cleric" => 1, "Deprived" => 2),
